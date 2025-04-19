@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "dilog.h": "c"
+        "dilog.h": "c",
+        "chrono": "c",
+        "text_encoding": "c",
+        "typeindex": "c",
+        "typeinfo": "c"
     }
 }
