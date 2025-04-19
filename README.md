@@ -32,8 +32,8 @@ int main() {
 
 - 🗂️ **Topic System**: Log with flexible "profiles" (topics) that allow full customization — format, output options, and more.
 - 🏷️ **Typed Logs**: Easily log messages as `error`, `info`, `warn`, or any custom-defined type.
-- 💾 **[WIP] Log to a File**: As simple as it sounds — send your logs to a file for persistent tracking.
-- 🌐 **Cross-Platform**: Works seamlessly on Linux, macOS, and Windows 🪟 — no dependencies needed.
+- 💾 **[WIP] Log to a File**: Send your logs to a file for persistent tracking.
+- 🌐 **Cross-Platform**: Works seamlessly on Linux, macOS, and Windows, no dependencies needed.
 - 🎨 **Hex Color Support**: Customize your logs with full hex color codes for better readability and style.
 
 

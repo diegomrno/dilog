@@ -1,7 +1,7 @@
 #include "../dilog.h"
 
-int main() {
+int main(void) {
     dilog_init();
-    dilog("Hello, world!");
+    dilog("Hello world!");
     return 0;
 }
