@@ -1,2 +1,2 @@
 # dilog
-Modern C log utility
+Modern, safe & minimalist C log utility 
